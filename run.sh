@@ -11,5 +11,5 @@ cat comics-images.csv
 
 cp ../marvel/data/v2/comics.csv .
 git add images
-git commit .
+git commit . -m "more comics" 
 git push
